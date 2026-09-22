@@ -2,9 +2,8 @@
 
 # Juan Carlos Luna
 
-### Backend Developer
+### Web Application Developer | Cibersecurity
 
-Building software from idea to deployment.
 
 <p>
   <a href="https://www.linkedin.com/in/juan-carlos-luna-samaniego">
