@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Build.+Learn.+Improve.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=2500&color=00C2FF&center=true&vCenter=true&width=700&lines=Learn.+Build.+Improve.+Repeat."/>
 
 </div>
 
