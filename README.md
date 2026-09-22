@@ -114,7 +114,7 @@ a Quotes module (CRUD, search) as a practical use case on top of the auth core.
 ## 📚 What I'm Focusing On
 
 - 🔐 Application Security (AppSec)
-- 🏗️ Backend architectures
+- 🏗️ Web Application Developer
 - ☁️ Deployment & infrastructure
 
 <br> 
@@ -128,7 +128,7 @@ a Quotes module (CRUD, search) as a practical use case on top of the auth core.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://jcluna-developer.moonline.es">
+<a href="https://jcluna.moonline.es">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
