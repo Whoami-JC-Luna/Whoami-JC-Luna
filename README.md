@@ -130,7 +130,7 @@ a Quotes module (CRUD, search) as a practical use case on top of the auth core.
 </a>
 
 <a href="https://jcluna.moonline.es">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mi_Web-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
