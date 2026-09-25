@@ -37,21 +37,17 @@
 </p>
 
 
-
-
-<br>
-<br>
 <br>
 
-## 👋 About Me
+## Backend-focused developer
 
-Hi! I'm Juan Carlos, a developer from Spain with a passion for building things and learning by doing.
+- ☕ Main stack: **Java & Spring Boot**: REST APIs, JPA/Hibernate, relational databases
+- 🐍 Also working with **Python & FastAPI**
+- 🔐 Specialized in **Cybersecurity**: security is part of how I build, not an afterthought
+- 🐧 Linux lover: Fedora as my daily driver and my own Ubuntu server in production, where I deploy my projects
+- 🤖 Currently building **MOONLINE**, an AI-powered workspace to organize tasks, events, notes and documents
 
-I love taking an idea from the very beginning, planning it, designing the data model, developing it and finally deploying it as a real product. Every project starts with curiosity and becomes an opportunity to learn something new through hands-on experience.
-
-For me, software development is much more than writing code. It's about understanding how things work, solving problems and creating useful solutions. I enjoy the entire journey, from the first sketch to seeing a project running in production.
-
-I'm always looking for new challenges that help me grow, both as a developer and as a person.
+I use AI as a tool, not a shortcut: I make sure I understand, review and test what ends up in my code.
 
 
 <br>
@@ -71,17 +67,23 @@ documents, each assistant with its own isolated context. Split architecture: **S
 handles auth and core business logic, **FastAPI** is a dedicated AI service.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/status-in%20development-yellow" />
-  <img src="https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-4.1-brightgreen?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-migrations-CC0200?logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-working%20MVP-brightgreen" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
 </p>
 
-[![Moonline Workspace](https://img.shields.io/badge/Moonline_Workspace-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whoami-JC-Luna/moonline-workspace)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Working_MVP-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website_Coming_Soon-181717?style=for-the-badge" />
+</p>
 
 <br>
 <br>
