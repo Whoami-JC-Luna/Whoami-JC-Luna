@@ -107,7 +107,7 @@ a Quotes module (CRUD, search) as a practical use case on top of the auth core.
   <img src="https://img.shields.io/badge/Flyway-migrations-CC0200?logo=flyway&logoColor=white" />
 </p>
 
-[![Login Demo JWT](https://img.shields.io/badge/Login_Demo_JWT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whoami-JC-Luna/login-demo-springboot-jwt)
+[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Whoami-JC-Luna/login-demo-springboot-jwt)
 
 <br>
 <br>
